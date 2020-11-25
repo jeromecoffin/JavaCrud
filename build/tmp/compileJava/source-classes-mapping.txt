@@ -1,2 +1,0 @@
-com/firstlab/firstlab/FirstlabApplication.java
- com.firstlab.firstlab.FirstlabApplication
