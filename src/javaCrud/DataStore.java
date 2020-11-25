@@ -1,4 +1,4 @@
-package firstlab;
+package javaCrud;
 
 import java.util.HashMap;
 import java.util.Map;

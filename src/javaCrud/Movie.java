@@ -1,4 +1,4 @@
-package firstlab;
+package javaCrud;
 
 public class Movie {
 	
